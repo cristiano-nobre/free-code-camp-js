@@ -1,0 +1,1 @@
+const myArray = ['peanut butter', 15];
